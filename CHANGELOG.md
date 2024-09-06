@@ -1,5 +1,11 @@
 # @balancer/sdk
 
+## 0.25.1
+
+### Patch Changes
+
+- 74322d3: Add vault and vault extension abis to any router interactions to enable decoded error messages.
+
 ## 0.25.0
 
 ### Minor Changes
